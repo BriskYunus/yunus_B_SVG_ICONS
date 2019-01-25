@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg id="icon9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 278.3 183" style="enable-background:new 0 0 278.3 183;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#52ABB2;}
+	.st1{fill:#3B7E7F;}
+	.st2{fill:#F7F7F7;}
+
+	#icon9:hover .st0{ fill: #6edde5; }
+	#icon9:hover .st1{ fill: #5bb8ba; }
+	#icon9:hover .st2{ fill: #F7F7F7; }
+
+</style>
+<g id="base">
+	<path class="st0" d="M52,183c0,0-44.7-9.3-52-72c0,0,2-44.7,52-63.3h32c0,0,14.7-52.7,62-47.3c0,0,56,6,60,53.3
+		c0,0,3.3,19.3,0,27.3l32.7-0.7c0,0,34.7,0,39.3,46c0,0,6,44-35.3,56.7H52z"/>
+</g>
+<g id="arrow">
+	<path class="st1" d="M127.7,59.7c0,0,11-19.3,25.7,0V105h22.3L141,152.4l-35.3-45.7l22.7-0.3L127.7,59.7z"/>
+</g>
+<g id="white">
+	<polygon class="st2" points="121.3,111.6 159.3,111.6 140.7,139.4 	"/>
+</g>
+</svg>
