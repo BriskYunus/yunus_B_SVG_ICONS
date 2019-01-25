@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg id="icon8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 280.3 210" style="enable-background:new 0 0 280.3 210;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4EA05D;}
+	.st1{fill:#E5E5E5;}
+	.st2{fill:#376D3E;}
+	.st3{fill:#B2B2B2;}
+
+	#icon8:hover .st0{ fill: #6ed180; }
+	#icon8:hover .st1{ fill: #f7f7f7; }
+	#icon8:hover .st2{ fill: #59a863; }
+	#icon8:hover .st3{ fill: #dbdbdb; }
+	
+</style>
+<g id="base">
+	<polygon class="st0" points="0,10.3 9.7,0 268,0 280.3,8 280.3,201 270,209.7 10,209.7 0,199 	"/>
+</g>
+<g id="play">
+	<polygon class="st1" points="105.3,158.3 105.3,51.3 185.3,107 	"/>
+</g>
+<g id="sides">
+	<rect x="241.5" y="0" class="st2" width="11.7" height="210"/>
+	<rect x="27.7" class="st2" width="11.7" height="210"/>
+</g>
+<g id="shadow">
+	<polygon class="st3" points="105.2,110.3 180.2,110.3 105.3,158.2 	"/>
+</g>
+</svg>

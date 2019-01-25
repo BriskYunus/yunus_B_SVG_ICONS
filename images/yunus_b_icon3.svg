@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg id="icon3" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 267.7 279.7" style="enable-background:new 0 0 267.7 279.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D69743;}
+	.st1{fill:#A86F2C;}
+
+	#icon3:hover .st0{ fill: #ffb95e; }
+	#icon3:hover .st1{ fill: #e59b47; }
+
+</style>
+<g id="phone">
+	<path class="st0" d="M46.6,0L9.3,28c0,0-16,22-6,46.7C3.3,74.7,70,216,206,275.3c0,0,30,11.3,39.3-2.7l22.5-33.3l-0.4-5.3
+		l-71.3-58.1l-22.8,27.4c0,0-94.3-74.7-97.1-99.3l30.2-26l-0.1-8L46.6,0z"/>
+</g>
+<g id="hear">
+	<path class="st1" d="M46.6,0c0,0,50.3,10,59.7,70c0,0,1.3,6.1-5.6,4.4c0,0-47.2-31.4-54.1-67.1C46.6,7.3,45,5.8,46.6,0z"/>
+</g>
+<g id="talk">
+	<path class="st1" d="M196.1,175.9c0,0,51.3,0.8,71.3,58.1c0,0,2.4,5.8-4.7,5.3c0,0-52-22.4-65.3-56.3
+		C197.4,183,195.5,181.8,196.1,175.9z"/>
+</g>
+</svg>
